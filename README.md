@@ -56,4 +56,4 @@ What I would add to see more data would be to add the station names in the start
 
 ### Dashboard Link:
 
-https://public.tableau.com/views/Challenge_16482566330390/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Challenge_16482566330390/Start?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
