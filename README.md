@@ -41,7 +41,7 @@ For this analysis, I use Pandas to change the "tripduration" column from an inte
 
   ![Screenshot](images/august_peak_hours.PNG)
   
-- Finally I think that knowing the best starting location is ideal to tie in the data for where to optimize maximus business.
+- Finally I think that knowing the best starting location is ideal to tie in the data for where to optimize and maximize business.
 
 
   ![Screenshot](images/start_locations.PNG)
@@ -50,7 +50,7 @@ For this analysis, I use Pandas to change the "tripduration" column from an inte
 
 
 My summary for this analysis would be that the ideal way to optimize business would be to market towards the more female demographic for earlier times of the day such as work hours. As well as making repairs from the time of 2 am to 5 am. The times for the greatest use are from 3pm to 7pm with a constant growth till 7pm.
-What I would add to see more data would be to add the station names in the starting locations and end locations to show what the most populare locations would be for repairs and resetting the bikes. The second opinion I have would be to see the age and gender for those using the bikes to give a better demographic of who exactly is using the bikes more in one chart. 
+What I would add to see more data would be to add the station names in the starting locations and end locations to show what the most popular locations would be for repairs and resetting the bikes. The second opinion I have would like to see the age and gender for those using the bikes to give a better demographic of who exactly is using the bikes more in one chart. 
 
 
 
